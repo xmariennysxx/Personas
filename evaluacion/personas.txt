@@ -1,0 +1,5 @@
+Homero,36
+Marge,35
+Bart,10
+Lisa,8
+Maggie,1
